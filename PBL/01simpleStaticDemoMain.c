@@ -4,7 +4,7 @@
 #include "text.h"
 #include "imagen.h"
 #include <stdio.h>
-
+//aaaaa
 
 #define SOINU_KOP 5
 char * soundFiles[] = { ".\\sound\\128GBVHR_01.wav", ".\\sound\\128NIGHT_01.wav", ".\\sound\\132TRANCE_02.wav",
